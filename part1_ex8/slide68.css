@@ -1,0 +1,14 @@
+button{
+    background-color:#09bbce;
+    color:#000000;
+    font-size:50pt;
+    margin:19px;
+}
+
+#danger-btn{
+    background-color:#ededef;
+}
+
+.green-bg{
+background-color:#c50808;
+}
